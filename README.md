@@ -34,6 +34,12 @@ NOVA uses a standard ERC-20 implementation based on OpenZeppelin.
 The total supply of 1,000,000 NOVA was minted at deployment.  
 The contract does not expose a public mint function.
 
+### Verified Source Code
+
+The NOVA smart contract source code is publicly verified on BaseScan:
+
+https://basescan.org/address/0xd79Ef2B159080e93a65EE665917fBD83323FddD9#code
+
 ## Disclaimer
 
 NOVA is an independent onchain project. Cryptocurrency assets are volatile and involve risk. Nothing in this repository constitutes financial advice.
