@@ -40,6 +40,16 @@ The NOVA smart contract source code is publicly verified on BaseScan:
 
 https://basescan.org/address/0xd79Ef2B159080e93a65EE665917fBD83323FddD9#code
 
+### Deployment
+
+- Network: Base Mainnet
+- Contract: `0xd79Ef2B159080e93a65EE665917fBD83323FddD9`
+- Deployment transaction: `0x18dd1251a700af4a4bf129b58966dc709be3e6ec2d696404587d310b3f216c62`
+- Solidity compiler: `v0.8.34`
+- Optimizer: Disabled
+- EVM version: Cancun
+- OpenZeppelin Contracts: v5.5.0
+ 
 ## Disclaimer
 
 NOVA is an independent onchain project. Cryptocurrency assets are volatile and involve risk. Nothing in this repository constitutes financial advice.
