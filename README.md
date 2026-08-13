@@ -37,3 +37,7 @@ The contract does not expose a public mint function.
 ## Disclaimer
 
 NOVA is an independent onchain project. Cryptocurrency assets are volatile and involve risk. Nothing in this repository constitutes financial advice.
+
+## License
+
+This project is licensed under the MIT License.
